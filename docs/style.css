@@ -1,0 +1,21 @@
+
+#images img{
+    width: 10%;
+    float: left;
+    margin-right: 10px;
+}
+
+.title{
+    color: blue;
+    background-color:papayawhip;
+    background-image: url("./imgs/hoi.jpg");
+}
+
+.nanka{
+    background-color:mediumturquoise;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom:  40px;
+    padding-right: 50px;
+}
